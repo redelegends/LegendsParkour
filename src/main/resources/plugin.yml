@@ -1,0 +1,6 @@
+name: LegendsParkour
+version: 1.0
+author: [nevesbr6, shauuu_]
+depend:
+  - LegendsCore
+main: dev.redelegends.parkour.Main
